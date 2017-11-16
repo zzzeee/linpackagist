@@ -1,0 +1,11 @@
+{
+    "name": "zzzeee/linpackagist",
+    "description": "composer 初学测试！！！",
+    "authors": [
+        {
+            "name": "lin zeyong",
+            "email": "285489996@qq.com"
+        }
+    ],
+    "require": {}
+}
